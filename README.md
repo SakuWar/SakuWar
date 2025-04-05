@@ -1,15 +1,19 @@
-<h1 align="center">Hello 👋! My name is Diego and I'm a software engineering student.</h1>
+# 💫 About Me:
+
+Soy estudiante del quinto ciclo de la carrera técnica de Ingeniería de Software. A lo largo de <br>mi formación, he adquirido conocimientos sólidos en programación, bases de datos, <br>desarrollo web y metodologías ágiles. Me encuentro en una etapa clave de mi desarrollo <br>académico, donde estoy aplicando lo aprendido en proyectos prácticos que fortalecen mis <br>habilidades técnicas y de trabajo en equipo.
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakuWar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakuWar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakuWar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SakuWar&theme=vue-dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuWar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+# 💻 Tech Stack:
 
 ###
 
@@ -43,7 +47,7 @@
 
 ###
 
-<h3 align="left">Contacts</h3>
+## 🌐 Socials:
 
 ###
 
