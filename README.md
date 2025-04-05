@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Soy estudiante del quinto ciclo de la carrera técnica de Ingeniería de Software. A lo largo de <br>mi formación, he adquirido conocimientos sólidos en programación, bases de datos, <br>desarrollo web y metodologías ágiles. Me encuentro en una etapa clave de mi desarrollo <br>académico, donde estoy aplicando lo aprendido en proyectos prácticos que fortalecen mis <br>habilidades técnicas y de trabajo en equipo.
+Soy estudiante del quinto ciclo de la carrera técnica de Ingeniería de Software. A lo largo de mi formación, he adquirido conocimientos sólidos en programación, bases de datos, desarrollo web y metodologías ágiles. Me encuentro en una etapa clave de mi desarrollo académico, donde estoy aplicando lo aprendido en proyectos prácticos que fortalecen mis habilidades técnicas y de trabajo en equipo.
 
 ###
 
