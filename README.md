@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Soy estudiante del quinto ciclo de la carrera técnica de Ingeniería de Software. A lo largo de mi formación, he adquirido conocimientos sólidos en programación, bases de datos, desarrollo web y metodologías ágiles. Me encuentro en una etapa clave de mi desarrollo académico, donde estoy aplicando lo aprendido en proyectos prácticos que fortalecen mis habilidades técnicas y de trabajo en equipo.
+I am currently pursuing a technical degree in Software Engineering, building a strong foundation in object-oriented programming, database design and management, full-stack web development, and agile methodologies such as Scrum and Kanban. I'm in a crucial phase of my academic journey where I actively apply my knowledge through hands-on projects, focusing on developing efficient, scalable, and maintainable software solutions. My work emphasizes clean code practices, team collaboration, and continuous improvement.
 
 ###
 
