@@ -7,7 +7,7 @@ Soy estudiante del quinto ciclo de la carrera técnica de Ingeniería de Softwar
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SakuWar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" width="375"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuWar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuWar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="297"/>
 </p>
 
 ###
